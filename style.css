@@ -1,0 +1,19 @@
+/* custom css start */
+.custom_bg_info {
+    background-color: #fceae8;
+}
+
+.categories img {
+    width: 80px;
+}
+
+.panda_product_btn {
+    background-color: #ff4d94;
+    cursor: pointer;
+    color: #fff;
+    width: 130px;
+    text-align: center;
+    padding: 10px 5px;
+    border-radius: 9px;
+    border: none;
+}
