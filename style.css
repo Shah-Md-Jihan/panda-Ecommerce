@@ -17,3 +17,20 @@
     border-radius: 9px;
     border: none;
 }
+
+.panda_submit_btn {
+    background-color: #ff4d94;
+    cursor: pointer;
+    color: #fff;
+    width: 130px;
+    text-align: center;
+    padding: 10px 5px;
+    border-radius: 9px;
+    border: none;
+}
+
+.disable {
+    cursor: not-allowed;
+    pointer-events: none;
+    background-color: #80808069;
+}
